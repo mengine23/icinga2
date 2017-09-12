@@ -1,2 +1,2 @@
 # icinga2
-Some useful things abaout icinga2
+Some useful things about icinga2
